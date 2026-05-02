@@ -1,6 +1,4 @@
-# XAI Healthcare Dashboard
-### MSc Information Technology — Khizar Shahzad (c7556498)
-### Leeds Beckett University — Dissertation Project 2026
+
 
 ---
 
